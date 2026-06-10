@@ -2,6 +2,8 @@
 
 An interactive data visualization and analytics dashboard project created by students at the **Bucharest University of Economic Studies (ASE)**. This project leverages historical environmental records to analyze global trends, regional disparities, and specific national updates in air quality over a 30-year span.
 
+DASHBOARD LINK: https://public.tableau.com/app/profile/constantin.teodor/viz/AirPollution_17811098062940/Dashboard1
+
 ---
 
 ## 👥 Project Contributors (Students)
