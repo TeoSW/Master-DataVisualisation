@@ -4,6 +4,8 @@ An interactive data visualization and analytics dashboard project created by stu
 
 DASHBOARD LINK: https://public.tableau.com/app/profile/constantin.teodor/viz/AirPollution_17811098062940/Dashboard1
 
+![Alternative text here](images/Dashboard.jpg)
+
 ---
 
 ## 👥 Project Contributors (Students)
